@@ -1,0 +1,16 @@
+{
+  "name": "ga-arnez-skills",
+  "owner": {
+    "name": "Gabriel Arnez"
+  },
+  "plugins": [
+    {
+      "name": "gabriel-skills",
+      "source": "./plugins/gabriel-skills",
+      "description": "Skills pessoais do Gabriel, sincronizadas entre o app Claude e o Claude Code"
+    }
+  ],
+  "metadata": {
+    "description": "Skills pessoais do Gabriel para Claude e Claude Code"
+  }
+}

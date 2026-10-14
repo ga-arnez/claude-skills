@@ -1,0 +1,6 @@
+{
+  "name": "gabriel-skills",
+  "version": "1.0.0",
+  "description": "Skills pessoais do Gabriel, sincronizadas entre o app Claude e o Claude Code",
+  "author": { "name": "Gabriel Arnez" }
+}
